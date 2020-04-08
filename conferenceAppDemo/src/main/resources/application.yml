@@ -1,0 +1,3 @@
+#also the properties file (prod, dev) work on yml files with the same env options
+server:
+  port: 5000
